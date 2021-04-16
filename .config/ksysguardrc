@@ -1,0 +1,12 @@
+[MainWindow]
+CommandList=
+DP-1 DP-2 Height 1050x1680=480
+DP-1 DP-2 Width 1050x1680=640
+HostList=
+MenuBar=Disabled
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+isMinimized=false

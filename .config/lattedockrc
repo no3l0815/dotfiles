@@ -1,0 +1,40 @@
+[KFileDialog Settings]
+Recent Files[$e]=Edna.layout.latte,file:$HOME/Schreibtisch/d3luxe.layout.latte,file:$HOME/Bilder/Bilder/seitenbacher.jpg,file:$HOME/Downloads/Edna.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Bilder/Bilder/,file:$HOME/Schreibtisch/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+DP-1 DP-2 Height 2560x1440=453
+DP-1 DP-2 Width 2560x1440=465
+
+[PlasmaTransientsConfig]
+PreloadWeight=10
+enableKWinEdges=true
+raiseOnActivityChange=false
+raiseOnDesktopChange=false
+timerHide=700
+timerShow=0
+
+[PlasmaTransientsConfig][ConfigDialog]
+DialogHeight=648
+DialogWidth=539
+
+[ScreenConnectors]
+10=DP-1
+11=DP-2
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=false
+currentLayout=UwU
+downloadWindowSize=800,550
+lastNonAssignedLayout=UwU
+launchers=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:spotify.desktop
+layoutsColumnWidths=126,84,68,0
+layoutsWindowSize=700,591
+memoryUsage=0
+metaPressAndHoldEnabled=false
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

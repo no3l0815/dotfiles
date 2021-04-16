@@ -1,0 +1,31 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[FullScreen]
+FullScreenModeActive=true
+
+[General]
+UrlNavigatorIsEditable=true
+
+[MainWindow]
+DP-1 DP-2 Height 1050x1680=480
+DP-1 DP-2 Height 2560x1440=480
+DP-1 DP-2 Width 1050x1680=854
+DP-1 DP-2 Width 2560x1440=854
+DP-1 DP-2 Window-Maximized 1050x1680=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA1YAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.config/spicetify/Themes/spicetify-themes/Pop-Dark/screenshot1.jpg
+File2[$e]=$HOME/spicetify-themes/Samurai/samuraitheme.png
+File3[$e]=$HOME/spicetify-themes/NightMoon/screenshot.png
+File4[$e]=$HOME/spicetify-themes/Material-Ocean/screnshot.png
+Name1[$e]=screenshot1.jpg
+Name2[$e]=samuraitheme.png
+Name3[$e]=screenshot.png
+Name4[$e]=screnshot.png
+
+[SideBar]
+SideBarSplitterSizes=242,2315

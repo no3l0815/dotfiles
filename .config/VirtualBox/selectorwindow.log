@@ -1,0 +1,22 @@
+00:00:01.670720 VirtualBox GUI VM Selector Window 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:01.670722 Log opened 2021-04-16T21:35:42.821735000Z
+00:00:01.670723 Build Type: release
+00:00:01.670726 OS Product: Linux
+00:00:01.670727 OS Release: 5.11.10-1-MANJARO
+00:00:01.670728 OS Version: #1 SMP PREEMPT Thu Mar 25 17:14:55 UTC 2021
+00:00:01.670753 DMI Product Name: To Be Filled By O.E.M.
+00:00:01.670763 DMI Product Version: To Be Filled By O.E.M.
+00:00:01.670768 Firmware type: UEFI
+00:00:01.671282 Secure Boot: Disabled
+00:00:01.671329 Host RAM: 15999MB (15.6GB) total, 14059MB (13.7GB) available
+00:00:01.671332 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.671332 Process ID: 3718
+00:00:01.671333 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.671366 Qt version: 5.15.2
+00:00:01.682693 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.125746 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x144 x 2560x1416
+00:00:02.129759 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 2560x0 x 1050x1680
+00:00:02.142949 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.126465 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:54.657291 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:58.933106 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

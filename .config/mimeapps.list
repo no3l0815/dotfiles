@@ -1,0 +1,8 @@
+[Added Associations]
+application/octet-stream=balena-etcher-electron.desktop;
+application/x-apple-systemprofiler+xml=org.kde.kate.desktop;
+
+[Default Applications]
+application/x-apple-systemprofiler+xml=org.kde.kate.desktop;
+x-scheme-handler/discord-409416265891971072=discord-409416265891971072.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop

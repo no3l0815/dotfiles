@@ -1,0 +1,28 @@
+[Favorite Profiles]
+Favorites=Breath2.profile
+
+[MainWindow]
+DP-1 DP-2 Height 1050x1680=1376
+DP-1 DP-2 Height 2560x1440=1376
+DP-1 DP-2 Width 1050x1680=1272
+DP-1 DP-2 Width 2560x1440=1272
+DP-1 DP-2 Window-Maximized 1050x1680=true
+DP-2 DP-1 Height 1050x1680=480
+DP-2 DP-1 Width 1050x1680=640
+DP-2 DP-1 Window-Maximized 1050x1680=true
+DP-2 DP-1 Window-Maximized 2560x1440=true
+DP-2 Window-Maximized 1050x1680=true
+DisplayPort-0 DisplayPort-1 Height 1050x1680=811
+DisplayPort-0 DisplayPort-1 Height 2560x1440=676
+DisplayPort-0 DisplayPort-1 Width 1050x1680=1050
+DisplayPort-0 DisplayPort-1 Width 2560x1440=2560
+DisplayPort-0 DisplayPort-1 Window-Maximized 1440x2560=true
+DisplayPort-0 DisplayPort-1 XPosition=0
+DisplayPort-0 DisplayPort-1 XPosition 1050x1680=2560
+DisplayPort-0 DisplayPort-1 XPosition 2560x1440=0
+DisplayPort-0 DisplayPort-1 YPosition=29
+DisplayPort-0 DisplayPort-1 YPosition 1050x1680=29
+DisplayPort-0 DisplayPort-1 YPosition 2560x1440=149
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAVsAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
